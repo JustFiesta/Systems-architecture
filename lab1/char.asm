@@ -1,4 +1,6 @@
-    [bits 32]
+:asmsyntax=nasm    
+
+[bits 32]
 
 ;   esp -> [ret] ; ret - adres powrotu do asmloader
 
